@@ -1,11 +1,19 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "telegram-bot-lua"
 version = "1.8-0"
 
+-- LuaDist source
 source = {
-    url = "git://github.com/wrxck/telegram-bot-lua.git",
-    dir = "telegram-bot-lua",
-    branch = "master"
+  tag = "1.8-0",
+  url = "git://github.com/LuaDist-testing/telegram-bot-lua.git"
 }
+-- Original source
+-- source = {
+--     url = "git://github.com/wrxck/telegram-bot-lua.git",
+--     dir = "telegram-bot-lua",
+--     branch = "master"
+-- }
 
 description = {
     summary = "A simple yet extensive Lua library for the Telegram bot API.",
