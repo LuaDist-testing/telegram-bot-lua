@@ -2,11 +2,11 @@
 
 rockspec_format = "1.0.2"
 package = "telegram-bot-lua"
-version = "1.0.2-0"
+version = "1.0.2-1"
 
 -- LuaDist source
 source = {
-  tag = "1.0.2-0",
+  tag = "1.0.2-1",
   url = "git://github.com/LuaDist-testing/telegram-bot-lua.git"
 }
 -- Original source
@@ -25,7 +25,8 @@ description = {
 }
 
 supported_platforms = {
-    "linux"
+    "linux",
+    "macosx"
 }
 
 dependencies = {
