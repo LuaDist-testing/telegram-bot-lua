@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "telegram-bot-lua"
-version = "1.2-0"
+version = "1.2.1-0"
 
 -- LuaDist source
 source = {
-  tag = "1.2-0",
+  tag = "1.2.1-0",
   url = "git://github.com/LuaDist-testing/telegram-bot-lua.git"
 }
 -- Original source
