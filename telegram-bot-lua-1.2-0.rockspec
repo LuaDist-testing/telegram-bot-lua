@@ -1,12 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
-rockspec_format = "1.1.0"
 package = "telegram-bot-lua"
-version = "1.1.0-1"
+version = "1.2-0"
 
 -- LuaDist source
 source = {
-  tag = "1.1.0-1",
+  tag = "1.2-0",
   url = "git://github.com/LuaDist-testing/telegram-bot-lua.git"
 }
 -- Original source
